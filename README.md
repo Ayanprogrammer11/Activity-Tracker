@@ -22,6 +22,10 @@ This software is made in **Python** and dedicated to developing an open-source a
 **This software is for Educational Purposes only!**
 
 It's important to note that using such a software on others devices without the owner permission could potentially infringe on individual privacy rights and could be considered illegal in some jurisdictions.
+
+***The Data wont be stored in my Database, dont worry. You can see the code, i had removed my credentials and you'll use your own credemtials for storing Data***
+
+
 ## Features
 
 - Realtime Data Storing
